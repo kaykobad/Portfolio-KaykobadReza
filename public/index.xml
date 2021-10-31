@@ -6,15 +6,24 @@
     <description>Recent content on Kaykobad Reza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Aug 2021 12:49:27 +0600</lastBuildDate><atom:link href="https://kaykobadreza.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Aug 2021 12:00:00 +0600</lastBuildDate><atom:link href="https://kaykobadreza.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kalimera - Tourist Guide App</title>
       <link>https://kaykobadreza.netlify.app/portfolio/kalimera/</link>
-      <pubDate>Sun, 15 Aug 2021 12:49:27 +0600</pubDate>
+      <pubDate>Sun, 15 Aug 2021 12:00:00 +0600</pubDate>
       
       <guid>https://kaykobadreza.netlify.app/portfolio/kalimera/</guid>
       <description>Overview One of my clients from Greece asked me if I could help him build an app that works as a tourist guide to the visitors of Kos in Greece. He said, &amp;ldquo;The app needs to be on both platforms(Android &amp;amp; iOS) and should deliver the best experience to the tourists.&amp;rdquo;
 The challenge was to build a tourist app on both Android and iOS which will deliver the best experience to it&amp;rsquo;s users.</description>
+    </item>
+    
+    <item>
+      <title>Cherished Prayers - Social Media for the Pious</title>
+      <link>https://kaykobadreza.netlify.app/portfolio/cherished-prayers/</link>
+      <pubDate>Fri, 12 Feb 2021 12:00:00 +0600</pubDate>
+      
+      <guid>https://kaykobadreza.netlify.app/portfolio/cherished-prayers/</guid>
+      <description>Overview In today’s world, people are getting away from the God and they do not offer prayers. The people who want to offer prayers must face a lot of difficulties as they do not know the proper methods and note which they must speak while offering the prayer. Moreover, there are a lot of people who have a lot of questions about the verses and the prayer methods and they hesitate to ask someone.</description>
     </item>
     
     <item>
@@ -104,6 +113,17 @@ This is italic text</description>
       
       <guid>https://kaykobadreza.netlify.app/blog/you-must-know-this-before-becoming-a-designer/</guid>
       <description>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    
+    <item>
+      <title>Mazely - Amazing Maze Game</title>
+      <link>https://kaykobadreza.netlify.app/portfolio/mazely/</link>
+      <pubDate>Wed, 27 May 2020 12:00:00 +0600</pubDate>
+      
+      <guid>https://kaykobadreza.netlify.app/portfolio/mazely/</guid>
+      <description>Overview Mazely is a simple but amazing maze game built with Flutter. It has 3 difficulty levels: Beginner, Intermediate and Advanced.
+Each of the difficulty levels contains 40 stages each. So, the total number of stages is 120!! Stages are arranged according to adaptive difficulty. Difficulty increases as one continues to play along.
+Players are rewarded with gems for completing each stage. Gems are then used to unlock new difficulty levels.</description>
     </item>
     
   </channel>

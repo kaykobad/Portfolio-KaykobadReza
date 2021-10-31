@@ -1,13 +1,12 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hello, I am Kaykobad Reza
 content: >
-  # I am here for your personal business
+  # Let's bring your ideas to reality
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  I am here to help you build applications according to your ideas that can outstand your business.
 buttonName: Contact me
 buttonURL: contact
-image: images/hero/2960351.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+image: images/hero/k.jpeg
+videoThumb: images/portfolio/kalimera.jpeg
+videoURL: https://youtu.be/N0n662KjVOU
