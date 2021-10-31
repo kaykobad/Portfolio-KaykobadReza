@@ -2,44 +2,27 @@
 enable: true
 topTitle: Working Area
 title: >
-  ## Creative Services
+  ## Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  From mobile apps to websites or custom programming to building & deplyoing machine learning models, I can provide full support to all of these services.   
 service:
   - content: >
-      #### UI/UX Design 
+      #### App Development 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
+      Develop mobile apps for both Android and iOS. I can also build cross platform mobile apps using Flutter.   
+    image: images/service/creative.svg
   - content: >
       #### Web Development 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Develop complete website, admin panel, REST APIs and everything you need to run your business.   
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Machine Learning 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/creative.svg
-  - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Build and deploy machine learning models that help you achieve your goal or make your business successful.   
     image: images/service/branding.svg
   - content: >
-      #### UI/UX Design
+      #### Custom Programming
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      I can also write custom programs in Python, C, C++, Java, Dart and JavaScript that can do your desired tasks.   
     image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg
