@@ -4,17 +4,20 @@ topTitle: About
 title: >
   ## About me
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  I am a Computer Scinece graduate and Full Stack Developer. I can tackle projects that involve 
+  mobile applications, databases, building user-facing websites, REST APIs, or even work with 
+  clients from the planning phase of projects.
 content: >
-  ### I design and build ultimate things.
+  ### Your satisfaction is my ultimate priority
 
-  I love to work in User Experience & User Interface designing. Because I love
-  to solve the design problem and find easy and better solutions to solve it. I always
-  try my best to make good user interface with the best user experience. I have been
-  working as a Visual designer from.
+  With 4+ years of experience in applications development for international companies 
+  (like Samsung and bKash) with different technologies like Android, iOS, MVC, REST, Django, GraphQL, 
+  and finally now with Flutter and Firebase, I am here to help you build applications according to 
+  your ideas that can outstand your business or write computer programs to help you accomplish your goal.    
+  I will keep you up to date about the work in progress until we reach the final product you needed 
+  in the first place, maybe even better.
 button1Name: Hire me
 button2Name: Download CV
 button1Target: contact
 button2Target: contact
-image: images/about/about-img.jpg
+image: images/about/kaykobad.jpeg
