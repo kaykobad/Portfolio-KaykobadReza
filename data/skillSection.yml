@@ -4,14 +4,16 @@ topTitle: My Skills
 content: >
   ## Why hire me for your next project?
 
-  My goal is to build a strong supportive professional network among all freelancers and startups in order to improve their performance.
+  Your satisfaction is the ultimate priority of mine, so rest assured that I will keep you up to date about the work in progress until we reach the final product you needed in the first place, maybe even better.
 
-image: images/skill/skill_image.jpg
+image: images/about/kaykobad.jpeg
 
 skill:
-  - title: HTML
-    percent: 69
-  - title: CSS
-    percent: 60
-  - title: Javascript
-    percent: 85
+  - title: Flutter
+    percent: 95
+  - title: Django
+    percent: 90
+  - title: Python
+    percent: 95
+  - title: Machine Learning
+    percent: 95
