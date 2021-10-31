@@ -1,9 +1,9 @@
 ---
 title: Kalimera - Tourist Guide App
-date: 2021-08-15T12:49:27.000+06:00
+date: 2021-08-15T12:00:00.000+06:00
 thumbnail: images/portfolio/kalimera.jpeg
 service: Mobile App Development
-client: Andreas Rapessis
+client: Andreas Rapessis | Greece
 shortDescription: Kalimera app is here to guide you to all the magical corners of Kos, Greece. From the most popular spots to the best hidden gems, it's aim is to offer you the best experience possible and the most beautiful memories to take back home!
 challenge: The challenge was to build a tourist app on both Android and iOS which will deliver the best experience to it's users. The app is loaded with lots of cool features along with real time data reload, push notifications, events, user analytics, location tracking and much more!
 solution: I built Kalimera with Flutter as a cross platform mobile framework and Firebase as the backend. Flutter gives the native performance and experience while Firebase provides us with realtime database, user monitoring, push notification, analytics and other services.
