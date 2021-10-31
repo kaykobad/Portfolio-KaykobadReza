@@ -4,10 +4,10 @@ topTitle: My Resume
 title: >
   ## My Expertises
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
+  I am a Computer Scinece graduate and Full Stack Developer. I can tackle projects that involve mobile applications, databases, building user-facing websites, REST APIs, or even work with clients from the planning phase of projects.
 
 
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
+  I am here to help you build applications according to your ideas that can outstand your business.
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
@@ -15,44 +15,29 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Graduate in Computer Science
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      I completed my graduation in Computer Science & Engineering from Bangladesh University of Engineering & Technology (BUET).
+    time: 2015-2019
   - content: >
-      #### Master in Arts
+      #### Higher Secondary (12th Grade)
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
-  - content: >
-      #### Master in Arts
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      I completed my higher secondary exam (12 Grade equivalent) from Rangpur Government College, Rangpur.
+    time: 20012-2014
 
 experience:
   - content: >
-      #### Umbrella co. 
+      #### Senior Software Engineer | bKash Limited 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      I have been working as Senior Software Developer in [bKash Limited](https://www.bkash.com/) which is the largest MFS in Bangladesh.
+    time: July 2019 - Present
   - content: >
-      #### Aperture Science 
+      #### Software Engineer | Samsung R&D Institute, BD
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      I Worked as an iOS mobile application developer in [Samsung R&D Institute, Bangladesh](https://research.samsung.com/srbd).
+    time: May 2019 - July 2019
   - content: >
-      #### ACME Inc. 
+      #### Freelance Developer    
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
-  - content: >
-      #### LexCorp 
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      I have been working as a freelance software developer in both [Fiverr](https://www.fiverr.com/mdkaykobadreza) and [Upwork](https://www.upwork.com/freelancers/~0192198fa7d0947e51) for the last few years. 
+    time: December 2020 - Present
