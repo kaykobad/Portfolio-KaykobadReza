@@ -1,12 +1,14 @@
 ---
 enable: true
 topTitle: Hello, I am Kaykobad Reza
-content: >
+content: |
   # Let's bring your ideas to reality
-
   I am here to help you build applications according to your ideas that can outstand your business.
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/k.jpeg
 videoThumb: images/portfolio/kalimera.jpeg
-videoURL: https://youtu.be/N0n662KjVOU
+videoURL: https://www.youtube.com/embed/N0n662KjVOU
+title: Kaykobad Reza
+subtitle: ''
+description: ''
