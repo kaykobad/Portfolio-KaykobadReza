@@ -35,27 +35,27 @@ weight = 7
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
-url = "about"
+name = "Contact me"
+url = "contact"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
+name = "Latest Articles"
+url = "blog"
 weight = 2
 [[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
+name = "Recent Projects"
+url = "#portfolio"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
-url = "#"
+name = "Services"
+url = "#service"
 weight = 4
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Kaykobad Reza 2021"
-footerLogo = "images/contact/widget-logo.png"
+footerLogo = "images/contact/logo-w.png"
 formspreeURL = "https://formspree.io/f/mjvjqkze/"
 googleAnalytics = "G-EGE7KJ3LF7"
 logo = "images/site-navigation/logo.png"
