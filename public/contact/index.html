@@ -27,7 +27,18 @@
   
   <!-- Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-EGE7KJ3LF7"></script>
+
+  <!-- Recaptcha -->
+  <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
   <script>
+    window.onload = function() { 
+      var el = document.getElementById('g-recaptcha-response'); 
+      if (el) { 
+        el.setAttribute('required', 'required'); 
+      } 
+    }
+    
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
     gtag('js', new Date());
@@ -230,11 +241,11 @@
             <div class="form-group">
               <div class="form-check small">
                 <input type="checkbox" class="form-check-input" name="agreement" id="aggrement" required />
-                <label class="form-check-label" for="aggrement">
-                  I agree that my submitted data is being collected and
-                  stored.</label>
+                <label class="form-check-label" for="aggrement">I agree that my submitted data is being collected and stored.</label>
               </div>
             </div>
+
+            <div class="g-recaptcha" data-sitekey="6LcksCQdAAAAAF9rQvhTBzcADbIASHH3DiO62gFy"></div>
 
             <button type="submit" class="btn btn-primary btn-zoom" id="contact-form-button">Send Message</button>
             <p id="contact-form-status" class="mt-3"></p>
