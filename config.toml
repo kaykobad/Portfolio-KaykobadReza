@@ -24,10 +24,10 @@ weight = 4
 name = "Resume"
 url = "#resume"
 weight = 5
-[[menu.main]]
-name = "Blog"
-url = "#blog"
-weight = 6
+# [[menu.main]]
+# name = "Blog"
+# url = "#blog"
+# weight = 6
 [[menu.main]]
 name = "Contact"
 url = "#contact"
