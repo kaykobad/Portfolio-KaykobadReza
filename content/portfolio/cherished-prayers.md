@@ -1,7 +1,7 @@
 ---
 title: Cherished Prayers - Social Media for the Pious
 date: 2021-02-12T12:00:00.000+06:00
-thumbnail: images/portfolio/cherished-prayers.jpeg
+thumbnail: images/portfolio/cherished-prayers.webp
 service: Mobile App Development
 client: Stephen Aydt | USA
 shortDescription: Cherished Prayers App lets the user record the prayers according to his requirements. There is one main person who is handling the working of this project, that is the admin. He needs to login into his account. The added people are able to post in case of any problem regarding prayer and the people who will be reading this post may respond if they know the solution of that problem. The user is also given an opportunity to provide rating, complains, feedback and suggestions about the experience with application.

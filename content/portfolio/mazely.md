@@ -1,7 +1,7 @@
 ---
 title: Mazely - Amazing Maze Game
 date: 2020-05-27T12:00:00.000+06:00
-thumbnail: images/portfolio/mazely.jpeg
+thumbnail: images/portfolio/mazely.webp
 service: Mobile App Development
 client: Myself | Bangladesh
 shortDescription: Mazely is a simple but amazing maze game built with Flutter. It has 3 difficulty levels having 40 puzzels each and a total of 120 puzzles to solve.

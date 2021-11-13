@@ -1,7 +1,7 @@
 ---
 title: Dorao - Your Running Companion
 date: 2021-11-05T12:00:00.000+06:00
-thumbnail: images/portfolio/dorao.jpeg
+thumbnail: images/portfolio/dorao.webp
 service: Mobile App Development
 client: Kazi Abrar Islam | BD
 shortDescription: Staying fit has now become more rewarding with Dorao. Track the distance you walk or run and complete challenges from your favorite stores or brands to get exciting offers in the form of discount codes with Dorao. With regular challenges, you'll always be motivated. Keep a log of your time and distance covered, track your stats. Stay fit and save money.

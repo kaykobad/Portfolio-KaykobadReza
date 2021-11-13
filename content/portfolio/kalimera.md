@@ -1,7 +1,7 @@
 ---
 title: Kalimera - Tourist Guide App
 date: 2021-08-15T12:00:00.000+06:00
-thumbnail: images/portfolio/kalimera.jpeg
+thumbnail: images/portfolio/kalimera.webp
 service: Mobile App Development
 client: Andreas Rapessis | Greece
 shortDescription: Kalimera app is here to guide you to all the magical corners of Kos, Greece. From the most popular spots to the best hidden gems, it's aim is to offer you the best experience possible and the most beautiful memories to take back home!

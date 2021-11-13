@@ -55,10 +55,10 @@ weight = 4
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Kaykobad Reza 2021"
-footerLogo = "images/contact/logo-w.png"
+footerLogo = "images/contact/logo-w.webp"
 formspreeURL = "https://formspree.io/f/mjvjqkze/"
 googleAnalytics = "G-EGE7KJ3LF7"
-logo = "images/site-navigation/logo.png"
+logo = "images/site-navigation/logo.webp"
 
 [params.address]
 address = "Green Road, Dhaka, Bangladesh"
