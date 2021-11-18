@@ -26,20 +26,20 @@ I took this awesome opportunity to build this very useful app. I built "Cherishe
 
 
 #### Features
-User Authentication with Email & Password  
-Social Login (Facebook, Apple and Google)  
-User Profile Management  
-Ability to post, comment, or like any post or comment   
-Ability to update or delete post or comment   
-Real-time chat with text and images    
-Making Friends (send, cancel, accept friend request, unfriend)      
-User blocking (block or unblock user)    
-Report a bug     
-Provide feedback and rating    
-Different settings, configurations and much more...    
+- User Authentication with Email & Password  
+- Social Login (Facebook, Apple and Google)  
+- User Profile Management  
+- Ability to post, comment, or like any post or comment   
+- Ability to update or delete post or comment   
+- Real-time chat with text and images    
+- Making Friends (send, cancel, accept friend request, unfriend)      
+- User blocking (block or unblock user)    
+- Report a bug     
+- Provide feedback and rating    
+- Different settings, configurations and much more...    
 
 #### Important Information About the App
-**Framework:** [Flutter](https://flutter.dev/)  
-**Backend:** [Django](https://www.djangoproject.com/) | [Firebase](https://firebase.google.com/)    
+- **Framework:** [Flutter](https://flutter.dev/)  
+- **Backend:** [Django](https://www.djangoproject.com/) | [Firebase](https://firebase.google.com/)    
 
 Reach out to me for more information about the app or it's developement process. I'll be happy to bring your idea to reality.

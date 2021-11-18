@@ -28,23 +28,24 @@ Join Clubs of brands, teams and friends or create your own group for activities
 ####
 
 #### Features
-User Authentication    
-Social Login    
-Location Tracking (Foreground & Background)    
-Activity Monitoring (Running, Walking, Riding etc)    
-Route Tracking on Map During Each Run    
-Share Route Image or Run Statistics Card to Social Media    
-View Previous Run Histories    
-Push Notification    
-Inbox Notifications    
-Challenges with Rewards    
-Creating Group with Leaderboard    
-User Profile Management    
-Admin Dashboard    
-and much more!      
+- User Authentication    
+- Social Login    
+- Location Tracking (Foreground & Background)    
+- Activity Monitoring (Running, Walking, Riding etc)    
+- Route Tracking on Map During Each Run    
+- Share Route Image or Run Statistics Card to Social Media    
+- View Previous Run Histories    
+- Push Notification    
+- Inbox Notifications    
+- Challenges with Rewards    
+- Creating Group with Leaderboard    
+- User Profile Management    
+- Admin Dashboard    
+- and much more!      
 
 #### Important Information About the App
-**Framework:** [Flutter](https://flutter.dev/)  
-**Backend:** [Firebase](https://firebase.google.com/)    
+- **Framework:** [Flutter](https://flutter.dev/)  
+- **Backend:** [Firebase](https://firebase.google.com/)    
+**Google Play:** [Dorao - Your Running Companion](https://play.google.com/store/apps/details?id=com.dorao.doraoApp)    
 
 Reach out to me for more information about the app or it's developement process. I'll be happy to bring your idea to reality.

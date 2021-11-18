@@ -23,19 +23,19 @@ For helping people solve hard levels, hints are provided. Players can use hints 
 ####
 
 #### Features
-3 Difficulty Levels    
-120 Levels with Adaptive Difficulty   
-Solution Hint   
-Reward upon Solving Each Puzzle   
-Cool Background Music      
-Admob Integration       
-Rating Options      
-And much more...    
+- 3 Difficulty Levels    
+- 120 Levels with Adaptive Difficulty   
+- Solution Hint   
+- Reward upon Solving Each Puzzle   
+- Cool Background Music      
+- Admob Integration       
+- Rating Options      
+- And much more...    
 
 #### Important Information About the App
-**Framework:** [Flutter](https://flutter.dev/)  
-**Level Generator:** [Python](https://www.python.org/)   
-**Google Play:** [Mazely App](https://play.google.com/store/apps/details?id=com.kaykobadreza.mazely)    
+- **Framework:** [Flutter](https://flutter.dev/)  
+- **Level Generator:** [Python](https://www.python.org/)   
+- **Google Play:** [Mazely App](https://play.google.com/store/apps/details?id=com.kaykobadreza.mazely)    
 
 This game is suitable for people of all ages. Enjoy your free time with this beautiful and simple game.
 Reach out to me for more information about the app or it's developement process. I'll be happy to bring your idea to reality.

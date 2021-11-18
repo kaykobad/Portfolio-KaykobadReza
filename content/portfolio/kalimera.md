@@ -22,17 +22,17 @@ I took this awesome opportunity to build my very first international tourist gui
 
 
 #### Features
-User Authentication with Email & Password  
-Social Login (Facebook, Apple and Google)  
-User Profile Management  
-Location Tracking  
-Push Notification  
-Event Creation, Management & Booking  
-Eat/Drink/Shop/Personal Wellbeing Search and Booking  
-Beach/Attractions/Local Experiences Search & Booking  
-Transport (Bus & Taxi) Booking  
-User Analytics  
-and much more...  
+- User Authentication with Email & Password  
+- Social Login (Facebook, Apple and Google)  
+- User Profile Management  
+- Location Tracking  
+- Push Notification  
+- Event Creation, Management & Booking  
+- Eat/Drink/Shop/Personal Wellbeing Search and Booking  
+- Beach/Attractions/Local Experiences Search & Booking  
+- Transport (Bus & Taxi) Booking  
+- User Analytics  
+- and much more...  
 
 
 #### Look what the owner says about the app:
@@ -41,11 +41,11 @@ and much more...
 
 
 #### Important Information About the App
-**Framework:** [Flutter](https://flutter.dev/)  
-**Backend:** [Firebase](https://firebase.google.com/)  
-**Play Store:** [Android App](https://play.google.com/store/apps/details?id=com.outergaze.kosapp)  
-**App Store:** [iOS App](https://apps.apple.com/gr/app/kalimera/id1572166542)  
-**Website:** [Website Link](https://kalimerapp.eu/)  
-**Facebook Page:** [Kalimera App](https://www.facebook.com/app.kalimera)   
+- **Framework:** [Flutter](https://flutter.dev/)  
+- **Backend:** [Firebase](https://firebase.google.com/)  
+- **Play Store:** [Android App](https://play.google.com/store/apps/details?id=com.outergaze.kosapp)  
+- **App Store:** [iOS App](https://apps.apple.com/gr/app/kalimera/id1572166542)  
+- **Website:** [Website Link](https://kalimerapp.eu/)  
+- **Facebook Page:** [Kalimera App](https://www.facebook.com/app.kalimera)   
 
 If you are visiting Greece, please try out Kalimera App. You will enjoy the best experience ever! Reach out to me for more information about the app or it's developement process. I'll be happy to bring your idea to reality.
