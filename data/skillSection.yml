@@ -9,11 +9,11 @@ content: >
 image: images/about/kaykobad.webp
 
 skill:
-  - title: Flutter
-    percent: 95
-  - title: Django
-    percent: 90
-  - title: Python
-    percent: 95
-  - title: Machine Learning
-    percent: 95
+  - title: Languages - Python, Dart, Java, C, C++
+    percent: 100
+  - title: Frameworks - Flutter, Django, TensorFlow, Keras
+    percent: 100
+  - title: IDE - Android Studio, VS Code, PyCharm, IntelliJ
+    percent: 100
+  - title: Others - Firebase, GraphQL, Fast API, DRF
+    percent: 100
