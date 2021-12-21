@@ -1,72 +1,85 @@
 baseURL = "https://kaykobadreza.com/"
 languageCode = "en-us"
+DefaultContentLanguage = "en"
 paginate = 6
 theme = "portio"
 title = "Kaykobad Reza"
+description = "Full-Stack Developer and Content Creator"
+enableEmoji = true
+enableGitInfo = true
+enableRobotsTXT = true
+# canonifyURLs = true
+
 # Main Menu
 [[menu.main]]
-name = "Home"
-url = "#home"
-weight = 1
+    name = "Home"
+    url = "#home"
+    weight = 1
 [[menu.main]]
-name = "About"
-url = "#about"
-weight = 2
+    name = "About"
+    url = "#about"
+    weight = 2
 [[menu.main]]
-name = "Service"
-url = "#service"
-weight = 3
+    name = "Service"
+    url = "#service"
+    weight = 3
 [[menu.main]]
-name = "Work"
-url = "#portfolio"
-weight = 4
+    name = "Work"
+    url = "#portfolio"
+    weight = 4
 [[menu.main]]
-name = "Resume"
-url = "#resume"
-weight = 5
+    name = "Resume"
+    url = "#resume"
+    weight = 5
 # [[menu.main]]
 # name = "Blog"
 # url = "#blog"
 # weight = 6
 [[menu.main]]
-name = "Contact"
-url = "#contact"
-weight = 7
+    name = "Contact"
+    url = "#contact"
+    weight = 7
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "Contact me"
-url = "contact"
-weight = 1
+    name = "Contact me"
+    url = "contact"
+    weight = 1
 [[menu.sitemap]]
-name = "Latest Articles"
-url = "blog"
-weight = 2
+    name = "Latest Articles"
+    url = "blog"
+    weight = 2
 [[menu.sitemap]]
-name = "Recent Projects"
-url = "#portfolio"
-weight = 3
+    name = "Recent Projects"
+    url = "#portfolio"
+    weight = 3
 [[menu.sitemap]]
-name = "Services"
-url = "#service"
-weight = 4
+    name = "Services"
+    url = "#service"
+    weight = 4
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Kaykobad Reza 2021"
 footerLogo = "images/contact/logo-w.webp"
+logo = "images/site-navigation/logo.webp"
+author = "Kaykobad Reza"
+github = "https://github.com/kaykobad"
+facebook = "https://facebook.com/RezaMKaykobad"
+sitename = "Kaykobad Reza"
+linkedin = "https://www.linkedin.com/in/kaykobadreza"
 formspreeURL = "https://formspree.io/f/mjvjqkze/"
 googleAnalytics = "G-EGE7KJ3LF7"
-logo = "images/site-navigation/logo.webp"
 
 [params.address]
-address = "Green Road, Dhaka, Bangladesh"
-email = "dev.kaykobad@gmail.com"
-openingHours = "Open from 10am to 6pm (closes at 5pm Sundays)"
-phone = "+(880) 1521 465947"
+    address = "Green Road, Dhaka, Bangladesh"
+    email = "dev.kaykobad@gmail.com"
+    openingHours = "Open from 10am to 6pm (closes at 5pm Sundays)"
+    phone = "+(880) 1521 465947"
 
-[params.map]
+# Google map has been turned off from theme
+# [params.map]
 # APIkey = "YOUR GOOGLE MAP API"
 # latitude = "23.8103"
 # longitude = "90.4125"
@@ -74,13 +87,17 @@ phone = "+(880) 1521 465947"
 
 # Social icons
 [[params.social]]
-icon = "fa-facebook-official"
-url = "https://www.facebook.com/RezaMKaykobad/"
-weight = 1
+    icon = "fa-facebook-official"
+    url = "https://www.facebook.com/RezaMKaykobad/"
+    weight = 1
 [[params.social]]
-icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/in/kaykobadreza/"
-weight = 2
+    icon = "fa-linkedin-square"
+    url = "https://www.linkedin.com/in/kaykobadreza/"
+    weight = 2
+[[params.social]]
+    icon = "fa-github-square"
+    url = "https://www.github.com/kaykobad/"
+    weight = 2
 # [[params.social]]
 # icon = "fa-pinterest-square"
 # url = "https://www.pinterest.com/"
