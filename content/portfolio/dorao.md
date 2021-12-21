@@ -46,6 +46,6 @@ Join Clubs of brands, teams and friends or create your own group for activities
 #### Important Information About the App
 - **Framework:** [Flutter](https://flutter.dev/)  
 - **Backend:** [Firebase](https://firebase.google.com/)    
-**Google Play:** [Dorao - Your Running Companion](https://play.google.com/store/apps/details?id=com.dorao.doraoApp)    
+- **Google Play:** [Dorao - Your Running Companion](https://play.google.com/store/apps/details?id=com.dorao.doraoApp)    
 
 Reach out to me for more information about the app or it's developement process. I'll be happy to bring your idea to reality.
