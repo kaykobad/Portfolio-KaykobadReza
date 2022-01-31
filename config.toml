@@ -1,4 +1,4 @@
-baseURL = "https://kaykobadreza.com/"
+baseURL = "https://kaykobadreza.netlify.app/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 paginate = 6
