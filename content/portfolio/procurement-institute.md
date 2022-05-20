@@ -1,7 +1,7 @@
 ---
 title: Procurement Institute - All Gazetted Tenders 
 date: 2021-11-05T12:00:00.000+06:00
-thumbnail: images/portfolio/pi.webp
+thumbnail: images/portfolio/Pi-Banner.webp
 service: Mobile App Development
 client: King Olefile Nwako | Botswana
 shortDescription: Procurement Institute collects all the gazetted tenders in one simple app so that users can find and learn about tenders of their choice easily and reliably.

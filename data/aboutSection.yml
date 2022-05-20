@@ -5,7 +5,7 @@ title: >
   ## About me
 
   I am a Computer Scinece graduate and Full Stack Developer. I can tackle projects that involve 
-  mobile applications, databases, building user-facing websites, REST APIs, or even work with 
+  mobile applications, databases, user-facing websites, REST APIs, or even work with 
   clients from the planning phase of projects.
 content: >
   ### Your satisfaction is my ultimate priority
@@ -14,10 +14,10 @@ content: >
   (like Samsung and bKash) with different technologies like Android, iOS, MVC, REST, Django, GraphQL, 
   and finally now with Flutter and Firebase, I am here to help you build applications according to 
   your ideas that can outstand your business or write computer programs to help you accomplish your goal.    
-  I will keep you up to date about the work in progress until we reach the final product you needed 
+  I will keep you up-to-date about the work in progress until we reach the final product you needed 
   in the first place, maybe even better.
 button1Name: Hire me
-button2Name: Download CV
+button2Name: Online CV
 button1Target: contact
-button2Target: contact
+button2Target: https://cv.kaykobadreza.com/
 image: images/about/kaykobad.webp
