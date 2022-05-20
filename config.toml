@@ -1,4 +1,4 @@
-baseURL = "https://kaykobadreza.netlify.app/"
+baseURL = "https://portfolio.kaykobadreza.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 paginate = 6
@@ -61,7 +61,7 @@ enableRobotsTXT = true
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Kaykobad Reza 2021"
+copyright = "All right reserved copyright © Kaykobad Reza 2022"
 footerLogo = "images/contact/logo-w.webp"
 logo = "images/site-navigation/logo.webp"
 author = "Kaykobad Reza"
@@ -88,7 +88,7 @@ googleAnalytics = "G-EGE7KJ3LF7"
 # Social icons
 [[params.social]]
     icon = "fa-facebook-official"
-    url = "https://www.facebook.com/RezaMKaykobad/"
+    url = "https://www.facebook.com/MdKaykobadReza/"
     weight = 1
 [[params.social]]
     icon = "fa-linkedin-square"

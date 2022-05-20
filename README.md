@@ -4,4 +4,4 @@ This is my Portfolio. I built it on Hugo, the framework I love for it's incredib
 
 Thanks for visiting my repo!
 
-> You can check the [online version of this Resume here](https://portfolio.kaykobadreza.com)
+> You can check the [online version of this Portfolio here](https://portfolio.kaykobadreza.com)
